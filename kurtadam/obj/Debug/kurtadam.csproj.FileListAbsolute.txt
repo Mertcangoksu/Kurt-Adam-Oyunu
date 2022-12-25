@@ -1,0 +1,11 @@
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\bin\Debug\kurtadam.exe.config
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\bin\Debug\kurtadam.exe
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\bin\Debug\kurtadam.pdb
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.csproj.AssemblyReference.cache
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.csproj.SuggestedBindingRedirects.cache
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.Form1.resources
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.Properties.Resources.resources
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.csproj.GenerateResource.cache
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.csproj.CoreCompileInputs.cache
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.exe
+C:\Users\coman\Desktop\dersler\kurtadam\kurtadam\obj\Debug\kurtadam.pdb
